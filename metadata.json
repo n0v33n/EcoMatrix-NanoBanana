@@ -1,0 +1,7 @@
+{
+  "name": "EcoMatrix",
+  "description": "Transforms climate challenges into stories of hope with AI-powered comics.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
