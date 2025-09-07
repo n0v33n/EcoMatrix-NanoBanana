@@ -3,6 +3,8 @@
 EcoMatrix is a **React + TypeScript single-page application** that empowers anyone to create **AI-generated comics about climate change and environmental solutions**.  
 It combines storytelling, personalization, and cutting-edge AI to make climate education inspiring, hopeful, and fun.  
 
+ This project was built as part of my participation in the **Nano Banana Hackathon by Google DeepMind**, showcasing the creative use of Gemini models for interactive storytelling and education.
+
 ---
 
 ## ✨ Features
